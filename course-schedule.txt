@@ -1,34 +1,34 @@
 Fall 2016
-CS61A (Intro CS)			4 Units		A-
-Korean 10AX				5 Units		P
+CS61A (Intro CS)		    	    4 Units		A-
+Korean 10AX				            5 Units		P
 Math54 (Lin. Algebra and Diff. Eq)	4 Units		A
 
 Spring 2017
-CS61B (Data Structures)			4 Units		A
+CS61B (Data Structures)			    4 Units		A
 CS70 (Discrete Math and Prob.)		4 Units		A
 Math53 (Multivariable Calculus)		4 Units		A
-Math 98BC (Math connect)		1 Unit		A
+Math 98BC (Math connect)    		1 Unit		A
 
 Fall 2017
 CS170 (Algorithms and Intract. Prob)	4 Units		A-
-CS188 (Introduction to A.I.)		4 Units		A
-Stat133 (Computing with Data)		3 Units		B+
-UGIS 192D (Supervised Research)		3 Units		P
+CS188 (Introduction to A.I.)    		4 Units		A
+Stat133 (Computing with Data)	    	3 Units		B+
+UGIS 192D (Supervised Research)		    3 Units		P
 
 Spring 2018
-CS61C (Machine Structures)		4 Units		A-
+CS61C (Machine Structures)		    4 Units		A-
 Math 110 (Upper Div. Lin. Alg)		4 Units		A
-Stat 134 (Probability)			4 Units		A
+Stat 134 (Probability)			    4 Units		A
 
 Fall 2018
 Bio Eng 196 (Undergrad. Research)	4 Units		_
-CS161 (Computer Security)		4 Units		_
-CS189 (Machine Learning)		4 Units		_
-Math 98BC (Math connect)		1 Unit		_
-Stat 135 (Statistics)			4 Units		_
+CS161 (Computer Security)   		4 Units		_
+CS189 (Machine Learning)    		4 Units		_
+Math 98BC (Math connect)    		1 Unit		_
+Stat 135 (Statistics)	    		4 Units		_
 
 Spring 2019
-L&S C30Z (Bioinspired Design)		3 Units		_
+L&S C30Z (Bioinspired Design)   		3 Units		_
 EE16A (Information Devices and Systems)	4 Units		_
-CS 162 (Operating Systems)		4 Units		_
-Stat 151A (Linear Programming)		4 Units		_
+CS 162 (Operating Systems)		        4 Units		_
+Stat 151A (Linear Programming)		    4 Units		_
